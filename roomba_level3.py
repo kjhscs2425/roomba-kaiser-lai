@@ -12,11 +12,12 @@ import room
 speed(7)
 
 # Draw the Level 3 version of the room
-window = room.draw_room(level = 3)
+window = room.draw_room(level = 3, radius = 5)
 
 ###
 # Start your code here
- 
+for i in range(10):
+    forward(10)
  
  
 # End your code here

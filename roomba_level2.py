@@ -16,8 +16,9 @@ window = room.draw_room(level = 2)
 
 ###
 # Start your code here
- 
- 
+for i in range(10):
+    forward(40)
+    left(90)
  
 # End your code here
 ###
