@@ -24,7 +24,44 @@ window = room.draw_room(level = 8,
 
 ###
 # Start your code here
+sq = 40
  
+forward(sq)
+right(90)
+forward(sq)
+backward(sq*2)
+forward(sq)
+left(90)
+forward(sq*2)
+right(90)
+forward(sq)
+for i in range(2):
+    left(90)
+    forward(sq*2)
+left(90)
+forward(sq)
+left(90)
+forward(sq*5)
+backward(sq)
+left(90)
+forward(sq)
+backward(sq*2)
+forward(sq)
+left(90)
+forward(sq*4)
+left(90)
+forward(sq)
+backward(sq)
+right(90)
+forward(sq*3)
+backward(sq)
+left(90)
+forward(sq)
+backward(sq*2)
+
+
+
+
  
  
 # End your code here

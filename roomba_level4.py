@@ -15,10 +15,9 @@ speed(7)
 window = room.draw_room(level = 4, n_alcoves = 1)
 
 ###
-# Start your code here
- 
- 
- 
+# Start your code here 
+left(90)
+forward(80)
 # End your code here
 ###
  

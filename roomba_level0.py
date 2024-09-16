@@ -23,7 +23,9 @@ for i in range (2):
 for i in range(2):
       left(90)
       forward(80)
-
+for i in range(2):
+      left(90)
+      forward(40)
     
    
 

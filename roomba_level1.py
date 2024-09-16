@@ -14,7 +14,18 @@ window = room.draw_room(level = 1)
 ###
 # Start your code here
 window = room.draw_room(level = 1)
-
+for i in range(3):
+      left(90)
+      forward(160)
+for i in range (2):
+      left(90)
+      forward(120)
+for i in range(2):
+      left(90)
+      forward(80)
+for i in range(2):
+      left(90)
+      forward(40)
 
 
  

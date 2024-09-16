@@ -12,12 +12,17 @@ import room
 speed(7)
 
 # Draw the Level 3 version of the room
-window = room.draw_room(level = 6)
+window = room.draw_room(level = 6, radius = 5)
 
 ###
 # Start your code here
- 
- 
+sq = 40
+
+forward(sq)
+
+
+
+
  
 # End your code here
 ###

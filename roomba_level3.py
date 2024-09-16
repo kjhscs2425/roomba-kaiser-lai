@@ -16,9 +16,16 @@ window = room.draw_room(level = 3, radius = 5)
 
 ###
 # Start your code here
-for i in range(10):
-    forward(10)
- 
+sq = 40
+forward(sq)
+right(90)
+forward(sq*3)
+
+
+
+
+
+
  
 # End your code here
 ###
