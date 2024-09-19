@@ -16,6 +16,7 @@ window = room.draw_room(level = 6, radius = 5)
 
 ###
 # Start your code here
+speed(40)
 sq = 40
 left(180)
 forward(sq*3)
@@ -78,6 +79,9 @@ right(90)
 forward(sq*10)
 backward(sq*20)
 forward(sq*10)
+forward(sq*9)
+right(90)
+forward(sq*4)
 
 # End your code here
 ###
